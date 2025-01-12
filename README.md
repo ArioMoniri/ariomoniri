@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ario+Moniri;I'm+happy+to+meet+you!&center=true&font=Fira+Code&weight=700&duration=3000&pause=1000&height=100&width=600&color=0078D7&size=32">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ario+Moniri;Happy+to+see+you+around!&center=true&font=Fira+Code&weight=700&duration=3000&pause=1000&height=100&width=600&color=0078D7&size=32">
 </h1>
 
 ## 🚀 About Me
