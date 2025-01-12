@@ -88,9 +88,15 @@ I'm a **medical student and research fellow** currently pursuing my Doctor of Me
 
 ---
 
-## ⚡ GitHub Stats:
-![Ariorad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariomoniri&show_icons=true&theme=radical)
+<div align="center">
+  <h2>GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=ariomoniri&show_icons=true&theme=radical">
+</div>
 
+<div align="center">
+  <h2>Most Used Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariomoniri&layout=compact&theme=dark" alt="Top Langs">
+</div>
 
 ---
 
