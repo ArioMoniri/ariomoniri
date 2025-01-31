@@ -150,9 +150,17 @@ I'm a **medical student and research fellow** currently pursuing my Doctor of Me
 ---
 
 ## 🌐 Find Me Online:
-- **[LinkedIn](https://www.linkedin.com/in/ariorad-moniri-623b661b5)**
-- **[GitHub](https://github.com/ariomoniri)**
-- **[Email](mailto:ariorad.moniri@live.acibadem.edu.tr)**
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ariorad-moniri-623b661b5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ariorad.moniri@live.acibadem.edu.tr">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="Email" />
+  </a>
+</div>
+
+
 
 ---
 
