@@ -6,6 +6,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ario+Moniri;Happy+to+see+you+around!&center=true&font=Fira+Code&weight=700&duration=3000&pause=1000&height=100&width=600&color=0078D7&size=32">
 </h1>
 
+
+
+
+
 ## 🚀 About Me
 I'm a **medical student and research fellow** currently pursuing my Doctor of Medicine at **Acıbadem University** with a **minor in Computer Engineering**. I am deeply passionate about **bioinformatics**, **machine learning**, **AI in medicine**, and **software development**, striving to merge technology and healthcare.
 
@@ -48,12 +52,38 @@ I'm a **medical student and research fellow** currently pursuing my Doctor of Me
 ## 🛠️ Tools & Frameworks:
 
 ### Programming & Development
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
-![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white)
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="scala logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+</div>
+
+###
+
+
 
 ### Bioinformatics
 ![GSEA](https://img.shields.io/badge/-GSEA-ff9900?logo=genome&logoColor=white)
@@ -64,6 +94,7 @@ I'm a **medical student and research fellow** currently pursuing my Doctor of Me
 ![STAR](https://img.shields.io/badge/-STAR-2E86C1?logo=genome&logoColor=white)
 ![miRTarBase](https://img.shields.io/badge/-miRTarBase-F39C12?logo=data&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/-NetworkX-EC7063?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 ---
 
@@ -98,6 +129,8 @@ I'm a **medical student and research fellow** currently pursuing my Doctor of Me
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariomoniri&layout=compact&theme=dark" alt="Top Langs">
 </div>
 
+<img src="https://raw.githubusercontent.com/ariomoniri/ariomoniri/output/snake.svg" alt="Snake animation" />
+
 ---
 
 
@@ -125,3 +158,11 @@ I'm a **medical student and research fellow** currently pursuing my Doctor of Me
 
 ### 🎉 Let's Collaborate!
 I'm always open to collaborations in **bioinformatics**, **AI in medicine**, and **web or app development**. Let's build something innovative together!
+
+
+
+
+
+
+
+
